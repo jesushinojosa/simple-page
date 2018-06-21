@@ -1,4 +1,4 @@
 <?php
 function testing(){
-    return "Hello World";
+    return "Hello World :)";
 }
