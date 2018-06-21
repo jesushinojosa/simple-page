@@ -10,6 +10,6 @@
     <script src="main.js"></script>
 </head>
 <body>
-    <p><?php testing();?></p>
+    <p><?php echo testing();?></p>
 </body>
 </html>
