@@ -1,4 +1,6 @@
-<?php include('./server/time.php');?>
+<?php include('./server/time.php');
+include('./test2/test2.php');
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -11,5 +13,6 @@
 </head>
 <body>
     <p><?php echo testing();?></p>
+
 </body>
 </html>
